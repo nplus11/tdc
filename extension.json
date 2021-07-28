@@ -1,0 +1,13 @@
+{
+  "name": "Time Delimiter Chunking",
+  "apiVersion": "1.0.0",
+  "author": "Kenneth Nierenhausen",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "Time Delimiter Chunking": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
