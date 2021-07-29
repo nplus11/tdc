@@ -1,9 +1,9 @@
 {
   "name": "Time Delimiter Chunking",
   "apiVersion": "1.0.0",
-  "author": "Kenneth Nierenhausen",
+  "author": "nplu11",
   "version": "0.0.1",
-  "description": "",
+  "description": "Merge multiple frames by time",
   "extensions": {
     "Time Delimiter Chunking": {
       "type": "HighLevelAnalyzer",
